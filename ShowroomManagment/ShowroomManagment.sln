@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowroomManagment", "ShowroomManagment\ShowroomManagment.csproj", "{57AE5764-4F90-428C-AF5C-AE99A987E443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowroomManagmentAPI", "ShowroomManagmentAPI\ShowroomManagmentAPI.csproj", "{BBDAEE98-257A-4FA9-8286-81BD7CFD0905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AE5764-4F90-428C-AF5C-AE99A987E443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AE5764-4F90-428C-AF5C-AE99A987E443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AE5764-4F90-428C-AF5C-AE99A987E443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AE5764-4F90-428C-AF5C-AE99A987E443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDAEE98-257A-4FA9-8286-81BD7CFD0905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDAEE98-257A-4FA9-8286-81BD7CFD0905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDAEE98-257A-4FA9-8286-81BD7CFD0905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDAEE98-257A-4FA9-8286-81BD7CFD0905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA200463-DE4A-42D5-A4C1-04F11E3DB7D3}
+	EndGlobalSection
+EndGlobal
