@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj": {}
+    "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj": {
+    "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj",
+        "projectUniqueName": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj",
         "projectName": "ShowroomManagment",
-        "projectPath": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj",
+        "projectPath": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment.csproj",
         "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagment\\obj\\",
+        "outputPath": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj": {}
+    "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj": {
+    "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj",
         "projectName": "ShowroomManagmentAPI",
-        "projectPath": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj",
+        "projectPath": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagmentAPI\\ShowroomManagmentAPI.csproj",
         "packagesPath": "C:\\Users\\mustafa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mustafa\\source\\repos\\ShowroomManagment\\ShowroomManagmentAPI\\obj\\",
+        "outputPath": "C:\\Users\\mustafa\\Documents\\GitHub\\ShowroomManagment\\ShowroomManagment\\ShowroomManagmentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mustafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,24 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
